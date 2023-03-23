@@ -64,7 +64,6 @@ public class NewBehaviourScript : MonoBehaviour
 }
 ```
 ## Output:
-
 ![output](op.png)
 
 ![output](op1.png)
